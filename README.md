@@ -1,3 +1,7 @@
+Private fork for learning purpose.
+
+-- Original Messages from Harry Percival
+
 This repository contains all the example code from my book, "Test-Driven Web
 Development with Python", available at
 [www.obeythetestinggoat.com](http://www.obeythetestinggoat.com)
